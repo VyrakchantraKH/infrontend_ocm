@@ -4,7 +4,7 @@
       Tailwind 4 Test
     </h1>
     <p class="text-lg text-slate-800 mb-2">
-      If you see this, Tailwind 4 is working.
+      If you see this, Tailwind 4 is working. Test Github push
     </p>
     <p class="text-sm text-rose-600">
       Tailwind 4 introduces new color names like slate & rose
